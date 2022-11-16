@@ -1,15 +1,48 @@
-<h1>
-    Mobile Account Login Interface
-</h1>
+<table align="right">
+  <tr>
+    <td>
+      <a href="readme-en.md">🇺🇸 English</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="README.md">🇧🇷 Português</a>
+    </td>
+  </tr>
+</table>
+<br>
 
-## About
-<p>Simple Login interface using HTML and CSS</p>
+# 🔓 Mobile Login Interface
 
-## Result
-<img src="./images/result.png" alt="challenge-result">
-Access the project <a href="https://luk4x.github.io/projeto-atro-mobile-ui-account-login/">HERE</a>.
+<div align="center">
+    <img src="./images/result.png" alt="result">
+</div>
 
-## 🤝 Contributors Linkedin
+> Acesse o projeto online **[AQUI](https://luk4x.github.io/projeto-atro-mobile-ui-account-login/)**
+
+## 📝 Sobre
+
+Interface mobile de Login, desenvolvida com HTML e CSS.
+
+## 📖 Clonando o Projeto
+
+Para clonar e executar este projeto em seu computador, você precisará apenas que o [Git](https://git-scm.com/) esteja previamente instalado.<br>
+Feito isso, no terminal:
+
+```bash
+# Clone esse repositório com:
+> git clone https://github.com/Luk4x/projeto-atro-mobile-ui-account-login.git
+
+# Entre no repositório com:
+> cd projeto-atro-mobile-ui-account-login
+
+# Execute o projeto com:
+> start index.html # Para usuários de Windows
+> open index.html # Para usuários de Linux/Mac
+```
+
+## 🤝 Contato dos Contribuintes
+
 <table>
   <tr>
     <td align="center">
