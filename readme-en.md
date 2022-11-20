@@ -69,7 +69,7 @@ After that, in the terminal:
 
 | :placard: Vitrine.Dev | Lucas Maciel |
 | -------------  | --- |
-| :sparkles: Name        | **Mobile Login Interface**
+| :sparkles: Name        | **🔓 Mobile Login Interface**
 | :label: Technologies | html, css
 | :camera: Img         | ![](./images/result.png#vitrinedev)
 
